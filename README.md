@@ -1,4 +1,1 @@
 # talent_scout_chatbot
-#### Using NLP and LLM 
-
-OPENAI_API_KEY= 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
