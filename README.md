@@ -3,7 +3,7 @@
 An intelligent **Hiring Assistant Chatbot** for *Talent Scout*, a fictional recruitment agency specializing in technology placements.  
 The chatbot helps with the **initial screening of candidates** by gathering essential information and asking relevant technical questions based on the candidate’s declared **tech stack**.  
 
----
+--- 
 
 ## 🚀 Features  
 
